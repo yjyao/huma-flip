@@ -1,0 +1,94 @@
+---config@码表分类=主码-3
+---config@码表别名=快捷命令
+$ddcmd(；,；)	;
+$ddcmd(；,；)	;;
+$ddcmd(config(/do anjianshezhi),[按键设置])	;aj
+$ddcmd(set([-DME设置-],显示码表词语码长=5),[单字模式])	;d
+$ddcmd(newkey(;en),[英文模式]en)	;e
+$ddcmd(newkey(;ck),[候选样式]ck)	;c
+$ddcmd(newkey(;i),[词典查询])	;i
+$ddcmd(run(calc.exe),[计算器])	;js
+$ddcmd(“”keyboard(<37>),“”)	;jj
+$ddcmd(run(http://fanyi.baidu.com/#auto/zh/<last.0>),[翻译「<last.0>」])	;fy
+$ddcmd(run(http://<last.1>.com),-> http://<last.1>.com)	;fa
+$ddcmd(run(http://www.baidu.com/s?wd=<last.0>),[百度搜索])	;ss
+$ddcmd(run(::{20D04FE0-3AEA-1069-A2D8-08002B30309D}),[我的电脑])	;pc
+$ddcmd(run(control.exe),[控制面板])	;co
+$ddcmd(run(control.exe),[控制面板])	;con
+$ddcmd(run(shell:Personal),[我的文档])	;wd
+$ddcmd(run(mspaint.exe),[打开画图])	;ht
+$ddcmd(run(wordpad.exe),[写字板])	;wp
+$ddcmd(run(wordpad.exe),[写字板])	;wpad
+$ddcmd(convert(繁体输出,切换),[简繁切换])	;jf
+$ddcmd(convert(全半角,切换),[全半角切换])	;qb
+$ddcmd(run(http://<last.1>.net),-> http://<last.1>.net)	;fb
+$ddcmd(→,→)	;t
+$ddcmd(·,·)	;g
+$ddcmd(《》keyboard(<37>),《》)	;h
+$ddcmd(（）keyboard(<37>),（）)	;k
+$ddcmd(〔〕keyboard(<37>),〔〕)	;l
+$ddcmd(「」keyboard(<37>),「」)	;m
+$ddcmd(keyboard(<35>),[End])	;n
+$ddcmd(℃,℃)	;o
+$ddcmd(％,％)	;b
+$ddcmd(‰,‰)	;q
+$ddcmd(……,……)	;s
+$ddcmd(©,©)	;c
+$ddcmd(——,——)	;v
+$ddcmd(____,____)	;x
+$ddcmd(○,○)	;y
+m²	;m
+m³	;m
+$ddcmd(run(%apppath%\\),[安装目录])	;ml
+$ddcmd(newkey(;off),[定时关机]f)	;o
+$ddcmd(run(shutdown par:-s -t 10),[延时10秒])	;off
+$ddcmd(set([-IME设置-],临时词功能开启=是),[临时词-开])	;ls
+$ddcmd(set([-IME设置-],临时词功能开启=否),[临时词-关])	;ls
+$ddcmd(set([-IME设置-],是否在上屏时开启词语联想=切换),[词语联想开关])	;lx
+$ddcmd(set([-DME设置-],临时英文引导字符='),[引号'临时英文-开])	;en
+$ddcmd(set([-DME设置-],临时英文引导字符=),[引号'临时英文-关])	;en
+$ddcmd(set([-按键功能-],键右Shift=英文输入开关),[右Shift英文联想-开])	;en
+$ddcmd(set([-按键功能-],键右Shift=输入法打开/关闭),[右Shift-关])	;en
+$ddcmd(set([-IME设置-],首字母大写开启临时英文输入=是),[首字母大写英文-开])	;en
+$ddcmd(set([-IME设置-],首字母大写开启临时英文输入=否),[首字母-关])	;en
+$ddcmd(set([-DME设置-],显示码表词语码长=1),[单字-关])	;d
+$ddcmd(set([-DME设置-],显示后续编码码长=0),[编码提示-关])	;t
+$ddcmd(set([-DME设置-],显示后续编码码长=1),[编码-开])	;t
+$ddcmd(set([-IME设置-],嵌入文本内容=嵌入编码),[嵌入单行])	;cka
+$ddcmd(set([-IME设置-],嵌入文本内容=传统样式),[传统两行])	;ckb
+$ddcmd(set([-SKIN设置-],候选列表排列样式=竖排),[排列样式-竖排])	;ckc
+$ddcmd(set([-SKIN设置-],候选列表排列样式=横排),[排列样式-横排])	;ckd
+$ddcmd(set([-IME设置-],候选窗口位置=固定位置),[候选框固定])	;cke
+$ddcmd(set([-IME设置-],候选窗口位置=跟随光标),[恢复默认])	;cke
+$ddcmd(help(keyboardmap.html,582,424),[键盘图])	;jp
+$ddcmd(config(/do 常用),[常用项])	;cy
+$ddcmd(config(/do 码表),[码表项])	;mb
+$ddcmd(config(/do 界面),[界面项])	;jm
+$ddcmd(config(/do gaojishezhi),[高级设置])	;gj
+$ddcmd(help(),[使用帮助])	;rm
+$ddcmd(run(http://www.chaiwubi.com/bmcx/?wz=<last.0>),[拆字查询])	;ia
+$ddcmd(run(http://hanyu.baidu.com/s?wd=<last.0>),[百度词典])	;ib
+$ddcmd(config(/dict <last.1>),[本地词典])	;ic
+$ddcmd(config(/do 输出反查),[输出反查])	;fc
+$ddcmd(config(/do 剪贴板反查),[剪贴板反查])	;fc
+$ddcmd(config(/do 在线加词),[在线加词])	;jc
+$ddcmd(run(shutdown par:-s -t 1800),[延时30分])	;off
+$ddcmd(run(shutdown par:-s -t 3600),[延时60分])	;off
+$ddcmd(run(shutdown par:-a),[取消关机])	;offf
+$ddcmd(<date.yyyy> 年 <date.mm> 月 <date.dd> 日)	date
+$ddcmd(<date.yyyy>.<date.mm>.<date.dd>,<date.yyyy>.<date.mm>.<date.dd>)	date
+$ddcmd(<date.z>)	date
+$ddcmd(<date.YYYY>年<date.M>月<date.D>日,<date.YYYY>年<date.M>月<date.D>日)	date
+$ddcmd(<date.yyyy>-<date.mm>-<date.dd>,<date.yyyy>-<date.mm>-<date.dd>)	date
+$ddcmd(help(),[使用帮助])	help
+$ddcmd(<time.h>:<time.mm>,<time.h>:<time.mm>)	now
+$ddcmd(<date.yyyy>年<date.m>月<date.d>日,<date.yyyy>年<date.m>月<date.d>日)	nyr
+$ddcmd(<date.yyyy>-<date.mm>-<date.dd>,<date.yyyy>-<date.mm>-<date.dd>)	nyr
+$ddcmd(<date.YYYY>年<date.M>月<date.D>日,<date.YYYY>年<date.M>月<date.D>日)	nyr
+m²	sdlm
+$ddcmd(<date.yyyy>年<date.mm>月<date.dd>日 <time.hh>:<time.mm>:<time.ss>)	time
+$ddcmd(<date.yyyy>-<date.mm>-<date.dd> <time.hh>:<time.mm>:<time.ss>)	time
+$ddcmd(<time.hh> 时 <time.mm> 分 <time.ss> 秒)	time
+$ddcmd(<date.yyyy> 年 <date.mm> 月 <date.dd> 日 <time.hh> 时 <time.mm> 分 <time.ss> 秒)	time
+$ddcmd(<date.YYYY>年<date.M>月<date.D>日 <time.hh>:<time.mm>:<time.ss>)	time
+$ddcmd(run(winword.exe),[word])	word

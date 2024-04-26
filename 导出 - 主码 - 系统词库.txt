@@ -1198,6 +1198,7 @@
 芝麻	agzk
 名符其实	agzr
 方	ah
+而且	ah
 荆	aha
 花开花落	ahaa
 蒜苔	ahae
@@ -5153,6 +5154,7 @@
 妖魔	bfzs
 娇躯	bfzx
 努	bg
+好了	bg
 妙笔生花	bgaa
 怒族	bgac
 怒放	bgai
@@ -5762,6 +5764,7 @@
 凶虐	bkzb
 婍	bkze
 留	bl
+如果	bl
 姥	bla
 怒目而视	blah
 留苏	blan
@@ -6672,6 +6675,7 @@
 如镜	btzv
 如歌	btzz
 蠡	bu
+好像	bu
 彐	bu
 录像带	buar
 杀人放火	buaw
@@ -10455,6 +10459,7 @@
 棒针	cszx
 校歌	cszz
 窝	ct
+干吗	ct
 杏花	ctau
 窝藏	ctax
 杏林	ctcc
@@ -13175,6 +13180,7 @@
 增长率	dpzj
 裂变	dpzw
 亮	dq
+就是	dq
 坦荡	dqae
 塌方	dqah
 坝	dqb
@@ -13752,6 +13758,7 @@
 高速铁路	dvzp
 高压锅	dvzt
 声	dw
+就不	dw
 差不多	dwaa
 声带	dwar
 声名	dwat
@@ -17767,6 +17774,7 @@
 温习	eqzv
 混迹	eqzw
 学	er
+觉得	er
 涴	era
 学苑	eraa
 沉落	erae
@@ -19093,6 +19101,7 @@
 兴业银行	ewzp
 洗尽铅华	ewzu
 汇	ex
+没有	ex
 𣸣	exa
 潮落	exae
 泡芙	exai
@@ -20046,6 +20055,7 @@
 阿姆斯特丹	fbzk
 雪夜	fbzu
 欣	fc
+我也	fc
 霉菌	fcag
 欣荣	fcar
 霜花	fcau
@@ -21673,6 +21683,7 @@
 三金	fnzu
 三哥	fnzz
 近	fo
+我的	fo
 我方	foah
 我的世界	foal
 近世	foas
@@ -22517,6 +22528,7 @@
 陨铁	ftzf
 衰变	ftzw
 斤	fu
+我们	fu
 坠落	fuae
 零落	fuae
 零散	fuam
@@ -24493,6 +24505,7 @@
 图铃	gizu
 悲歌	gizz
 之	gj
+因为	gj
 笠	gja
 之多	gjaa
 之旅	gjac
@@ -25721,6 +25734,7 @@
 筹钱	gszh
 东北虎	gszi
 回	gt
+对啊	gt
 回旋	gtac
 回族	gtac
 回敬	gtad
@@ -26966,6 +26980,7 @@
 互爱	hbyr
 互市	hbzg
 视	hc
+一样	hc
 一概而论	hcan
 末世	hcas
 一枝花	hcau
@@ -27476,6 +27491,7 @@
 一笑置之	hgyg
 迂回曲折	hgyo
 福	hh
+一下	hh
 福荫	hhaf
 唇亡齿寒	hhar
 一开始	hhbe
@@ -29809,6 +29825,7 @@
 事变	htzw
 副歌	htzz
 骱	hu
+一个	hu
 社会生活	huae
 社会生产力	huan
 夏令营	huar
@@ -37314,6 +37331,7 @@
 织锦	jtzo
 童锁	jtzy
 给	ju
+给你	ju
 纶	jua
 绿化带	juar
 绘	jub
@@ -39916,6 +39934,7 @@
 扁豆	kjzt
 太虚	kjzw
 央	kk
+刚刚	kk
 䃎	kka
 䃎	kkaa
 大大方方	kkaa
@@ -40129,6 +40148,7 @@
 大都市	klzg
 奢靡	klzg
 肩	km
+所以	km
 猯	kma
 猯	kmac
 肩带	kmar
@@ -42583,6 +42603,7 @@
 聊上	lbyh
 聊到	lbyp
 耳	lc
+卧槽	lc
 夥	lca
 夥	lcaa
 耳垂	lcaa
@@ -44261,6 +44282,7 @@
 先期	lpzi
 赞歌	lpzz
 者	lq
+都是	lq
 饥荒	lqah
 煮菜	lqay
 都好	lqbi
@@ -45389,6 +45411,7 @@
 要点	mbyt
 要钱	mbzh
 肝	mc
+这样	mc
 腾空而起	mcap
 腹带	mcar
 腹面	mcbk
@@ -45673,6 +45696,7 @@
 导轮	meyu
 肘弯	mezw
 胧	mf
+这么	mf
 胧	mfa
 这么多	mfaa
 臑	mfac
@@ -46177,6 +46201,7 @@
 脱钩	mizx
 脱销	mizy
 已	mj
+已经	mj
 岦	mja
 已而	mjac
 已获	mjak
@@ -46833,6 +46858,7 @@
 腰链	mmzy
 凯歌	mmzz
 山	mn
+这些	mn
 巳	mn
 肋	mna
 屴	mna
@@ -47204,6 +47230,7 @@
 脚踏车	mpyw
 刘某	mpzc
 疑	mq
+这是	mq
 腥	mqa
 腥	mqan
 贾	mqb
@@ -47614,6 +47641,7 @@
 文咏珊	mtxj
 岫	mty
 以	mu
+这个	mu
 己	mu
 文化艺术	muac
 文人雅士	muad
@@ -47753,6 +47781,7 @@
 氮化镓	muzr
 气候变化	muzu
 西	mv
+然后	mv
 西苑	mvaa
 西施	mvac
 西芹	mvaf
@@ -47946,6 +47975,7 @@
 西点	mvyt
 脏钱	mvzh
 肢	mw
+要不	mw
 毕业生	mwan
 肢节	mwaz
 刘炽平	mwci
@@ -50535,6 +50565,7 @@
 肯德基	nrzi
 各得其所	nrzk
 话	ns
+出来	ns
 诔	nsa
 话多	nsaa
 词藻	nsae
@@ -54157,6 +54188,7 @@
 揣摩	omzo
 指针	omzx
 手	on
+的话	on
 龵	on
 扌	on
 功	ona
@@ -54381,6 +54413,7 @@
 手镯	onzy
 手链	onzy
 推	oo
+看看	oo
 皦	ooa
 皦	ooai
 携带	ooar
@@ -58826,6 +58859,7 @@
 逃离	przb
 踪迹	przw
 精	ps
+起来	ps
 𬧀	psa
 𬧀	psae
 断落	psae
@@ -60863,6 +60897,7 @@
 晨钟	qhzt
 量变	qhzw
 败	qi
+知道	qi
 败落	qiae
 败草	qiaq
 赚	qib
@@ -61466,6 +61501,7 @@
 自食其力	qlzn
 电饭锅	qlzt
 明	qm
+自己	qm
 臭气熏天	qmah
 自然而然	qmam
 昭然若揭	qmao
@@ -62399,6 +62435,7 @@
 自由市场	qtzd
 自由基	qtzi
 几	qu
+时候	qu
 几多	quaa
 几个方面	quab
 自作多情	quai
@@ -63887,6 +63924,7 @@
 冶金	rezu
 冰镇	rezx
 定	rf
+怎么	rf
 兎	rf
 兔	rf
 宠	rfa
@@ -67726,6 +67764,7 @@
 毒针	sezx
 承销	sezy
 帮	sf
+那么	sf
 那么多	sfaa
 表带	sfar
 表名	sfat
@@ -69824,6 +69863,7 @@
 乱麻	sszk
 魅魔	sszs
 问	st
+那里	st
 问世	stas
 问她	stbc
 表里如一	stbh
@@ -69907,6 +69947,7 @@
 癌魔	stzs
 癌变	stzw
 闪	su
+那个	su
 阀芯	suai
 闪婚	subb
 症候群	subf
@@ -70107,6 +70148,7 @@
 版署	svyl
 青岛市	svzg
 闽	sw
+那不	sw
 癜	swa
 癜	swag
 闽菜	sway
@@ -72655,6 +72697,7 @@
 中长期	tpzi
 无路可走	tpzp
 员	tq
+只是	tq
 喝多	tqaa
 喝药	tqaj
 勋劳	tqar
@@ -74911,6 +74954,7 @@
 剑身	uezn
 敛迹	uezw
 任	uf
+什么	uf
 儒	ufa
 俄而	ufac
 儒	ufac
@@ -76015,6 +76059,7 @@
 催眠曲	ulyl
 人造卫星	ulzq
 仍	um
+你要	um
 华族	umac
 华擎	umad
 催生	uman
@@ -76469,6 +76514,8 @@
 人言可畏	unzl
 保证金	unzu
 入	uo
+你的	uo
+你看	uo
 入邪	uoaf
 入药	uoaj
 你的名字	uoar
@@ -76767,6 +76814,7 @@
 促销	upzy
 代销	upzy
 但	uq
+但是	uq
 侧芽	uqaa
 似是而非	uqag
 侧方	uqah
@@ -80591,6 +80639,7 @@
 秽迹	vmzw
 岛链	vmzy
 束	vn
+应该	vn
 历	vna
 称柴而爨	vnap
 厚此薄彼	vnar
@@ -82325,6 +82374,7 @@
 𮔂	wazu
 蝶恋	wazw
 层	wb
+不好	wb
 不	wb
 不多	wbaa
 不敬	wbad
@@ -82772,6 +82822,7 @@
 不相上下	wcyh
 火树银花	wcza
 古	wd
+不就	wd
 古董	wdaa
 古茗	wdaa
 故地重游	wdae
@@ -82902,6 +82953,8 @@
 古迹	wdzw
 古镇	wdzx
 尿	we
+不能	we
+不过	we
 遣散	weam
 烟消云散	weba
 不过如此	webn
@@ -83062,6 +83115,7 @@
 贵阳市	wfzg
 避雷针	wfzx
 烟	wg
+不对	wg
 不欢而散	wgaa
 烟蒂	wgaj
 炼药	wgaj
@@ -83357,6 +83411,7 @@
 飞身	whzn
 不求甚解	whzv
 火	wi
+不懂	wi
 灬	wi
 屏	wia
 故而	wiac
@@ -83937,6 +83992,7 @@
 螺钉	wlzs
 屠戮	wlzu
 尾	wm
+不要	wm
 煓	wma
 煓	wmac
 燃放	wmai
@@ -84265,6 +84321,7 @@
 支持率	wozj
 屈指可数	wozp
 克	wp
+不行	wp
 兛	wpa
 兛	wpal
 燐	wpam
@@ -84403,6 +84460,7 @@
 克斯	wpzi
 不忍卒读	wpzn
 贵	wq
+不是	wq
 爆	wqa
 贵族	wqac
 遗落	wqae
@@ -84975,6 +85033,7 @@
 壁钟	wtzt
 臂弯	wtzw
 及	wu
+不会	wu
 不信邪	wuaf
 贵人多忘事	wuah
 烩	wub
@@ -85135,6 +85194,7 @@
 蟾酥	wvyv
 不厌其烦	wvzw
 虫	ww
+还不	ww
 居多	wwaa
 虫族	wwac
 熠熠生辉	wwak
@@ -85302,6 +85362,7 @@
 还不错	wwza
 剧变	wwzw
 炮	wx
+还有	wx
 𬉼	wxb
 炮弹	wxbi
 𬉼	wxbj
@@ -85486,6 +85547,7 @@
 屋基	wyzi
 不置可否	wyzw
 翅	wz
+不错	wz
 不期而遇	wzal
 及锋而试	wzan
 不可多得	wzar
@@ -86107,6 +86169,7 @@
 在其	xdzi
 在身	xdzn
 雄	xe
+感觉	xe
 匚	xe
 勹	xe
 雄花	xeau
@@ -89185,6 +89248,7 @@
 威尼斯	xwzi
 马克斯	xwzi
 巨	xx
+现在	xx
 辛辛苦苦	xxaa
 朝朝暮暮	xxaa
 郁郁葱葱	xxaa
@@ -89407,6 +89471,7 @@
 巨变	xxzw
 马马虎虎	xxzz
 戚	xy
+有点	xy
 瑶族	xyac
 珰	xyb
 珰	xybu
@@ -90229,6 +90294,7 @@
 錾	yfzu
 劣迹	yfzw
 轻	yg
+到了	yg
 轻薄	ygae
 罪孽	ygaf
 轻放	ygai
@@ -93327,6 +93393,7 @@
 镁铝	zdzt
 铜墙铁壁	zdzw
 射	ze
+可能	ze
 可	ze
 可敬	zead
 可莉	zeav
@@ -94471,6 +94538,7 @@
 翼虎	zlzi
 翼翼	zlzl
 羽	zm
+可以	zm
 虔敬	zmad
 羽灵	zmbw
 羽坛	zmdb

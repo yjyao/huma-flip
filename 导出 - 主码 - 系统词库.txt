@@ -6311,6 +6311,7 @@
 婫	bqmm
 如是说	bqni
 昏话	bqns
+弃暗投明	bqoq
 迎风招展	bqow
 昏黑	bqpi
 昏迷	bqpo
@@ -37309,6 +37310,7 @@
 䌷	jty
 紬	jty
 部署	jtyl
+童贞	jtyq
 𦒍	jtz
 既可	jtze
 𦒍	jtzm
@@ -91326,6 +91328,7 @@
 四大	ynkt
 四联	ynli
 四眼	ynlj
+语惊四座	ynly
 四岁	ynma
 四肢	ynmw
 四月	ynmy

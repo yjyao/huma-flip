@@ -25333,7 +25333,6 @@
 切末	gphc
 难逃一死	gphd
 筛	gphg
-回归祖国	gphg
 切望	gphm
 皮下	gphy
 帐下	gphy
@@ -30724,7 +30723,6 @@
 父系	ibfj
 八三	ibfn
 斧	ibfu
-八零	ibfu
 發	ibg
 心灵鸡汤	ibge
 兼之	ibgj
@@ -33524,7 +33522,6 @@
 兑	itpc
 怳	itpc
 兌	itpc
-喜儿	itpc
 总监	itpg
 总行	itpv
 喜糖	itpv
@@ -36178,7 +36175,6 @@
 予	jm
 端	jma
 端	jmac
-纳西族	jmac
 端方	jmah
 端雅	jmao
 绷带	jmar
@@ -87270,7 +87266,6 @@
 真机	xlcq
 真棒	xlcs
 真够	xlda
-真地	xldc
 玩物丧志	xldd
 真美	xldk
 真坏	xldw

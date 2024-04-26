@@ -1,9 +1,10 @@
 ---config@码表分类=主码-用户码表
 ---config@码表别名=用户词库
+骗骗	xkxk#固
 弃暗投明	bqoq
 T^T	daku
-0  0	jing
 新番	jcfp
+0  0	jing
 童贞	jtyq
 五迷三道	rpfi
 白晰	rrjs
@@ -11,4 +12,3 @@ T^T	daku
 哈哈哈哈哈哈哈哈	tttt
 -   -。	wuyu
 语惊四座	ynly
-骗骗	xkxk#固

@@ -7368,6 +7368,7 @@
 模	caq
 舞星	caqa
 棤	caqg
+模组	caqh
 模	caqk
 繁荣昌盛	caqx
 檬	car
@@ -8815,6 +8816,7 @@
 平足	cipo
 平衡	cipr
 平行	cipv
+平夙	ciqd
 平时	ciqe
 平日	ciqg
 平息	ciqi
@@ -15756,6 +15758,7 @@
 没去	egde
 没死	egdm
 波士	egdn
+没差	egdo
 涠	egdr
 没羞	egds
 汉城	egdx
@@ -15788,6 +15791,7 @@
 没回	eggt
 泽国	eggx
 波形	egha
+没救	eghe
 汉武	eghp
 没事	eght
 波兰	egif
@@ -24610,6 +24614,7 @@
 之巅	gjmx
 之力	gjna
 之说	gjni
+之谓	gjnl
 之谜	gjnp
 之语	gjnr
 之词	gjns
@@ -24938,6 +24943,7 @@
 笔筒	gmgk
 笔算	gmgl
 笔笔	gmgm
+笔管	gmgr
 切肤之痛	gmgs
 笔答	gmgu
 幖	gmh
@@ -27595,6 +27601,7 @@
 吞吞吐吐	hhtt
 神神叨叨	hhtt
 一事无成	hhtx
+下一个	hhud
 万事俱备	hhui
 祖传	hhuk
 下一代	hhup
@@ -29573,6 +29580,7 @@
 一片狼藉	hska
 一来二去	hskd
 礼貌	hsko
+一来二往	hskr
 礼教	hsli
 礼遇	hslm
 礼赞	hslp
@@ -32100,6 +32108,7 @@
 送交	iksb
 送来	iksi
 关门	iksk
+前所未闻	ikss
 关闭	iksx
 前所未有	iksx
 关	ikt
@@ -34360,6 +34369,7 @@
 孤岛	iyvm
 孤雁	iyvu
 尊称	iyvv
+心辕意马	iyvx
 喜上眉梢	iywc
 欲罢不能	iywe
 孤烟	iywg
@@ -40808,6 +40818,7 @@
 石头门	krsk
 砟	krsn
 狞	krst
+网页版	krsv
 大家闺秀	krsv
 碗里	krta
 碗口	krte
@@ -41788,6 +41799,7 @@
 独享	kwdi
 犯不着	kwdl
 碾场	kwds
+大不列颠	kwdx
 独霸	kwff
 独睾	kwfy
 大不了	kwga
@@ -48152,6 +48164,7 @@
 𨐱	mxxv
 乃至	mxyj
 胸罩	mxyy
+胸针	mxzx
 月	my
 円	my
 月落	myae
@@ -49157,6 +49170,7 @@
 常销	ngzy
 证	nh
 诺亚方舟	nhaj
+证婚	nhbb
 记事本	nhch
 党政机关	nhci
 发祥地	nhdc
@@ -54082,6 +54096,7 @@
 撚	omkw
 指教	omli
 扔进	omlo
+指靠	omlt
 批	omm
 批	ommb
 指腹	ommc
@@ -55966,6 +55981,7 @@
 扩胸	ovmx
 换发	ovng
 工程设计	ovnn
+掐架	ovnt
 拉稀摆带	ovoa
 换工	ovod
 掂掇	ovog
@@ -57110,6 +57126,7 @@
 儿科	pcvu
 鬏	pcvw
 黑格尔	pcvy
+临机应变	pcvz
 鬍	pcw
 路见不平	pcwc
 路见不平，拔刀相助	pcwh
@@ -60447,6 +60464,7 @@
 时艰	qegj
 智勇双全	qegu
 自治县	qehe
+时弊	qehi
 时政	qehn
 时事	qeht
 时辰	qehw
@@ -62668,6 +62686,7 @@
 暗影	qvqd
 风和日丽	qvqh
 暗自	qvqj
+自顾自	qvqj
 暗昧	qvqs
 明争暗斗	qvqu
 暗暗	qvqv
@@ -76968,6 +76987,7 @@
 伸入	uquo
 伸伸	uquq
 体贴入微	uqur
+但你	uquv
 优伶	uquu
 假冒伪劣	uquy
 但应	uqve
@@ -77317,6 +77337,7 @@
 今宵	usry
 舒适	usso
 含片	ussp
+化妆间	ussq
 念书	usss
 含	ust
 仃	ust
@@ -78113,6 +78134,7 @@
 斜路	uvpn
 俐	uvpt
 余风	uvqb
+你是	uvqf
 供应量	uvqh
 斜照	uvqp
 余晖	uvqr
@@ -82714,6 +82736,7 @@
 不意	wbvi
 不久	wbvj
 尼姑庵	wbvk
+不厌	wbvk
 不好意思	wbvl
 不透	wbvm
 不愿	wbvo

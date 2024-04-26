@@ -1777,6 +1777,7 @@
 芭乐	akby
 英模	akca
 英年	akcm
+外太空	akco
 生态平衡	akcp
 颟顸	akcr
 荧光棒	akcs
@@ -1828,6 +1829,7 @@
 芭比	akmm
 生态文明	akmq
 英文	akmr
+英译	akng
 芦柴	aknm
 共同语言	aknn
 英语	aknr
@@ -8853,6 +8855,7 @@
 李咏	citj
 村规民约	citj
 平民	citk
+村夫野老	citl
 松嘴	citn
 棁	citp
 邃	ciu
@@ -11302,6 +11305,7 @@
 杭	czqu
 棋赛	czrl
 禁卫军	czry
+棋瘾	czsf
 棋牌	czso
 𥥷	czt
 窣	czu
@@ -12007,6 +12011,7 @@
 劫财	deqx
 劫案	derb
 却很	derj
+去往	derj
 埃塞	derl
 就觉得	derq
 埃德	derx
@@ -16552,6 +16557,7 @@
 淠	elaw
 洗菜	elay
 洗牙	elay
+汗牛充栋	elbc
 洗印	elbh
 洗面	elbk
 过眼云烟	elbw
@@ -17269,6 +17275,7 @@
 江岸	eomv
 过堂	eond
 激发	eong
+过谦	eoni
 江边	eono
 激赏	eonq
 过话	eons
@@ -18863,6 +18870,7 @@
 源泉	evoe
 水利工程	evov
 源	evoy
+海底捞针	evoz
 浰	evp
 浰	evpt
 潜移默化	evpu
@@ -20734,6 +20742,7 @@
 失笑	figf
 三分之一	figh
 降幅	figh
+失之	figj
 隆恩	figk
 失算	figl
 兵符	figu
@@ -27497,6 +27506,7 @@
 祖国	hhgx
 救亡图存	hhgx
 祖辈	hhgy
+福禄	hhhb
 一天天	hhhk
 万事万物	hhhl
 福祉	hhhn
@@ -29413,6 +29423,7 @@
 更不	hqwb
 一日不见	hqwc
 亘古	hqwd
+神智不清	hqwe
 百星不如一月	hqwm
 神灯	hqws
 形影不离	hqwz
@@ -30031,6 +30042,7 @@
 恶性	hwia
 严父	hwib
 亚兰	hwif
+天不怕地不怕	hwii
 事不关己	hwim
 天不怕	hwio
 祸不单行	hwip
@@ -30852,6 +30864,7 @@
 憷	iccf
 郑板桥	iccf
 规格	iccn
+悔棋	iccz
 条款	icdh
 彭城	icdx
 悔	ice
@@ -32164,6 +32177,7 @@
 兽性	ilia
 惧	ilib
 兽欲	ilic
+怵目惊心	ilii
 单子	ilij
 单单	ilil
 惧怕	ilio
@@ -40685,6 +40699,7 @@
 犹存	kqxd
 狂风骤雨	kqxf
 碣	kqxh
+犹有	kqxm
 独显直连	kqxy
 犹	kqy
 远日点	kqyt
@@ -46684,6 +46699,7 @@
 凯奇	mmkz
 比特	mmld
 凯特	mmld
+肚脐眼	mmlj
 崩	mmm
 脂肪	mmma
 肶	mmmb
@@ -49317,6 +49333,7 @@
 办公桌	niyq
 说爱	niyr
 说点	niyt
+语惊四座	niyv
 敞车	niyw
 办置	niyx
 说错	niza
@@ -52933,6 +52950,7 @@
 排击	ogok
 排挤	ogol
 看了看	ogol
+摊手	ogon
 投手	ogon
 择	ogon
 拍了拍	ogoo
@@ -53264,6 +53282,7 @@
 扶手	oion
 扒手	oion
 拌	oion
+皓首皤皤	oioo
 攻打	oios
 拼抢	oiou
 拼搏	oiox
@@ -55460,6 +55479,7 @@
 打炮	oswx
 打在	osxd
 搁在	osxd
+打勾	osxe
 打球	osxh
 挪威	osxh
 扬威	osxh
@@ -61885,6 +61905,7 @@
 晶莹	qqar
 电影节	qqaz
 婴	qqb
+州郡	qqbf
 风景如画	qqbh
 照明弹	qqbi
 是最好的	qqbo
@@ -66829,6 +66850,7 @@
 军购	ryqx
 寂寞	ryra
 军官	ryre
+徭役	ryrg
 寰宇	ryrh
 军容	ryri
 页头	ryrk
@@ -74485,6 +74507,7 @@
 停用	udfy
 候补	udfy
 停了	udga
+修图	udgi
 修筑	udgo
 修竹	udgo
 佳丽	udhm
@@ -76478,6 +76501,7 @@
 入流	uoeb
 入海	uoec
 保护法	uoed
+入浴	uoei
 逐浪	uoej
 人工流产	uoej
 伯母	uoek
@@ -81174,6 +81198,7 @@
 颓靡	vqzg
 秃虎	vqzi
 厕身	vqzn
+香锅	vqzt
 稼	vr
 解决方案	vrar
 乌鲁木齐	vrcl
@@ -85909,6 +85934,7 @@
 现今	xcus
 现价	xcuu
 成本价	xcuu
+忽尔	xcvy
 现居	xcww
 匆匆	xcxc
 有模有样	xcxc

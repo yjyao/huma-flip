@@ -1,10 +1,29 @@
 ---config@码表分类=主码-用户码表
 ---config@码表别名=用户词库
 哈哈哈哈哈哈哈哈	tttt#固
+™	ucbx#固
 骗骗	xkxk#固
-T^T	daku
+... 	;s
+好好好	bbbi
+ B 站	bijy
+ T^T 	daku
+声优	dwuq
 新番	jcfp
 0  0	jing
+✗	osgj
+✓	osxe
+ QQ 	otot
+→_→ 	pini
+州税	qqvi
+怎么啦	rfto
 五迷三道	rpfi
 ... 	slh
+北加	smnt
+嗯哼	tgtd
+嗯哪	tgts
+啊啊啊	tttf
+入坑	uodz
+ WiFi 	wifi
 -   -。	wuyu
+玩儿	xkpc
+魔物	zslx

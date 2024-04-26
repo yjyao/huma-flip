@@ -47616,6 +47616,7 @@
 腹背受敌	msys
 胶轮	msyu
 肿	mt
+这里	mt
 脱口而出	mtan
 肿	mtd
 吝啬	mtdi
@@ -50056,6 +50057,7 @@
 紫金	nmzu
 紫钻	nmzy
 尚	nn
+谢谢	nn
 许许多多	nnaa
 诡计多端	nnaj
 说说而已	nnam
@@ -67316,6 +67318,7 @@
 交期	sbzi
 效率	sbzj
 闲	sc
+那样	sc
 乛	sc
 の	sc
 闲散	scam
@@ -73023,6 +73026,7 @@
 史泰博	tsxx
 叮当	tsyb
 器	tt
+哪里	tt
 哩	tta
 里里外外	ttaa
 口吐芬芳	ttaa
@@ -94845,6 +94849,7 @@
 金戈铁马	zpzx
 亦师亦友	zpzx
 躲	zq
+可是	zq
 身败名裂	zqad
 铅芯	zqai
 躲藏	zqax
@@ -96004,6 +96009,7 @@
 锁链	zyzy
 链锁	zyzy
 哥	zz
+哥哥	zz
 期期艾艾	zzaa
 金针菇	zzab
 金银花露	zzaf

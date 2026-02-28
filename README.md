@@ -15,6 +15,12 @@
 为此。
 本魔改版重新将原版 Qwerty 版虎码方案适配到 Dvorak 键盘上。
 
+## 映射图
+
+<img width="721" height="235" alt="翻转虎码与虎码的映射图" src="https://github.com/user-attachments/assets/be2f553c-fd3f-44a5-82d5-c349f5f3bbb5" />
+
+蓝色下标为该键在标准虎码中对应的键。例：按下 Dvorak 上的 `a` 键即如同按下标准虎码中的 `l` 键。标准虎码字根请移步[虎码官网](https://www.tiger-code.com/)查看。
+
 ## 设计原理
 
 ### 问题剖析
